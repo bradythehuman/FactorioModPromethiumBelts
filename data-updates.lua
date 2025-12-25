@@ -1,0 +1,7 @@
+require("prototypes.particles")
+require("prototypes.entity.explosions")
+require("prototypes.entity.transport-belts")
+require("prototypes.entity.remnants")
+require("prototypes.item")
+require("prototypes.recipe")
+require("prototypes.technology")
