@@ -1,9 +1,12 @@
 {
   "name": "promethium-belts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "Promethium Belts",
   "author": "Helios467",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
-  "description": "This mod adds promethium belts, allowing the transport of 90 items per second."
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0"
+  ],
+  "description": "Harness the power of promethium asteroids to construct ultra-fast promethium belts. Constructed on space platforms, these belts allow the transport of 90 items per second."
 }
