@@ -14,6 +14,7 @@ data:extend
       }
     },
     enabled = false,
+    auto_recycle = true,
     ingredients =
     {
       {type= "item", name = "promethium-asteroid-chunk", amount = 1},
@@ -36,6 +37,7 @@ data:extend
       }
     },
     enabled = false,
+    auto_recycle = true,
     ingredients =
     {
       {type= "item", name = "promethium-asteroid-chunk", amount = 8},
@@ -58,6 +60,7 @@ data:extend
     },
     enabled = false,
     energy_required = 4,
+    auto_recycle = true,
     ingredients =
     {
       {type= "item", name = "promethium-asteroid-chunk", amount = 3},
@@ -73,6 +76,7 @@ data:extend
     enabled = false,
     hidden = true,
     energy_required = 20,
+    auto_recycle = true,
     ingredients =
     {
       {type = "item", name = "promethium-transport-belt", amount = 5},
